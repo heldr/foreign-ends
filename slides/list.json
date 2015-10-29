@@ -1,0 +1,71 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "#000",
+            "data-background-video": "resources/earth.mp4",
+            "data-background-video-loop": true
+        }
+    },
+    {
+        "filename": "cheff-s-plate.html",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    {
+        "filename": "toronto.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "canada.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    "antes-de-comecar.md",
+    {
+        "filename": "sorry-argentinian-friends.html",
+        "attr": {
+            "data-background": "rgb(92, 166, 197)"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "#000",
+            "data-background-video": "resources/to.mp4"
+        }
+    },
+    "nao-e-facil.md",
+    {
+        "filename": "porrrrque-voce-saiu-do-brasil.md",
+        "attr": {
+            "data-background-image": "resources/marilia-gabriela.jpg"
+        }
+    },
+    "como-eu-estava-em-2012-2013.html",
+    {
+        "filename": "comfort-zone.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    "intercambio.html",
+    "51-immigrants.html",
+    {
+        "filename": "depoimentos.md",
+        "attr": {
+            "data-background-image": "resources/sergio-chapellin.jpg"
+        }
+    },
+    "pois-afinal.md",
+    {
+        "filename": "voce-sai-do-brasil-mas-o-brasil-nao-sai-de-voce.html",
+        "attr": {
+            "data-background": "yellow"
+        }
+    },
+    "obrigado.html"
+]

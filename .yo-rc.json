@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Foreign-Ends",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "heldr",
+    "githubRepository": "foreign-ends"
+  }
+}
