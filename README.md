@@ -1,6 +1,6 @@
-# Foreign-ends - palestra - Front in Sampa 2015
+# Foreign-ends - Front in Sampa 2015
 
-> Privacy alert: Depois do talk, esse repositório vai continuar privado até que TODOS concordem do contrário. Os slides ficarão públicos em heldr.github.com...
+> **Privacy alert:** Depois do talk, esse repositório vai continuar privado até que TODOS concordem do contrário. Os slides ficarão públicos em heldr.github.com...
 
 ## TLDR
 - ``npm i && grunt``
@@ -10,7 +10,7 @@
 - slides em slides/ e list.json
 - uma issue com perguntas de cada participante
 - tente ler os tópicos abaixo, IM me em caso de perguntas.
-- Sugestões? Issue it!
+- Sugestões? Issue it or IM me!
 - é estranho escrever Markdown em português
 
 ## Minha chamada antes de cada depoimento:
