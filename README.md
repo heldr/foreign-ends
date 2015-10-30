@@ -10,7 +10,7 @@
 - slides em slides/ e list.json
 - uma issue com perguntas de cada participante
 - tente ler os tópicos abaixo, IM me em caso de perguntas.
-- Sugestões? Issue it or IM me!
+- Sugestões? PR, Issue it or IM me!
 - é estranho escrever Markdown em português
 
 ## Minha chamada antes de cada depoimento:
