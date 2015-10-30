@@ -13,6 +13,27 @@
 - Sugestões? PR, Issue it or IM me!
 - é estranho escrever Markdown em português
 
+## Idéia
+
+Mostrar um pouco da minha experiência e dar um preview do que tem sido a de outros profissionais. O tema não será nada técnico por se tratar de ser a última palestra do evento e 6 da tarde de um Sábado.
+
+Tempo: 50min
+
+- Me aprensento - 1min
+- Vídeo brincando com argentinos que palestraram no evento - 4min
+- Porque sai do Brasil - 2min
+- O que estranhei - 2min
+- O que tenho curtido - 2min
+- O mercado de trabalho em TO e mundo afora - 5min
+- Depoimentos - 20min (dependendo 25)
+- Link ZOFE #13 O Êxodo Frontendiano - 0.1min
+- Conclusão - 4min
+- Perguntas - 5min
+
+Total: 45min
+
+5min ficam de "gordura" para Perguntas ou depoimentos.
+
 ## Minha chamada antes de cada depoimento:
 
 Vou mostrar sua cidade no mapa, e uma foto de lá (pode commitar caso preferir)
