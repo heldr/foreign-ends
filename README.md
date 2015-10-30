@@ -8,7 +8,7 @@
 - Slides presentes são apenas um rascunho, o slide verde e amarelo é a mensagem final...e sim...é clichê :P
 - seu video, foto da cidade e avatar ficarão em resources/seu_nome
 - slides em slides/ e list.json
-- uma issue com perguntas de cada participante
+- uma issue para cada depoimento
 - tente ler os tópicos abaixo, IM me em caso de perguntas.
 - Sugestões? PR, Issue it or IM me!
 - é estranho escrever Markdown em português
@@ -19,7 +19,7 @@ Mostrar um pouco da minha experiência e dar um preview do que tem sido a de out
 
 Tempo: 50min
 
-- Me aprensento - 1min
+- Me apresento - 1min
 - Vídeo brincando com argentinos que palestraram no evento - 4min
 - Porque sai do Brasil - 2min
 - O que estranhei - 2min
