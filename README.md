@@ -3,7 +3,7 @@
 > **Privacy alert:** Depois do talk, esse repositório vai continuar privado até que TODOS concordem do contrário. Os slides ficarão públicos em heldr.github.com...
 
 ## TLDR
-- ``npm i && grunt``
+- ``npm i && grunt`` (alguns videos só rolam no chrome)
 - Slides foram gerados no [generator-reveal](https://github.com/slara/generator-reveal). Coffee e grunt estão presentes por isso :P
 - Slides presentes são apenas um rascunho, o slide verde e amarelo é a mensagem final...e sim...é clichê :P
 - seu video, foto da cidade e avatar ficarão em resources/seu_nome
@@ -34,4 +34,6 @@ Será baseada em localização, tentarei fazer um avião saindo de Toronto e ind
 - Conpenhagen: Jú Gonçalves
 - Amsterdã: Ainda não definido, tentarei algum organizador do Front in AM
 
-Perguntas não serão repetidas entre participantes, evitando  assim DRY! :smile:, portanto fique a la vonte de expor suas opiniões :)
+## Perguntas
+- A única repetida é 4 - O que você tem mais estudado atualmente?
+- As outras não são para evitar DRY! :smile:, portanto fique a la vonte de expor suas opiniões :)
