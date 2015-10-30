@@ -53,7 +53,7 @@ Será baseada em localização, tentarei fazer um avião saindo de Toronto e ind
 - Los Angeles: Zeno
 - Wellington - NZ: Eduardo Rabelo
 - Conpenhagen: Jú Gonçalves
-- Amsterdã: Ainda não definido, tentarei algum organizador do Front in AM
+- Amsterdã: Caio Gondim
 
 ## Perguntas
 - A única repetida é 4 - O que você tem mais estudado atualmente?
