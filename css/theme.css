@@ -305,6 +305,26 @@ body {
 .blink_me {
   animation: blinker .5s linear infinite; }
 
+.vcard h2 {
+  padding-bottom: 1em; }
+
+.vcard-details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
+
+.vcard ul {
+  list-style: none; }
+  .vcard ul span {
+    opacity: .5; }
+
+.reveal img.no-bd-bg {
+  background: none;
+  border: 0; }
+
+#perguntas- {
+  margin-top: 1em; }
+
 @keyframes blinker {
   50% {
     opacity: 0.0; } }
