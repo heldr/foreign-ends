@@ -65,7 +65,7 @@ section.has-light-background {
 
 *.reveal section[data-background-video] *,
 *.reveal section[data-background-image] * {
-    text-shadow: 2px 2px 4px rgba(190,190,190,1.0);
+    text-shadow: 2px 2px 4px #000;
 }
 
 .blink_me {
@@ -74,7 +74,7 @@ section.has-light-background {
 
 .vcard {
 	h2 {
-		padding-bottom: 1em;
+		padding-bottom: $heading4Size;
 	}
 
 	&-details {
@@ -96,8 +96,18 @@ section.has-light-background {
 	border: 0;
 }
 
-#perguntas- {
-	margin-top: 1em;
+#perguntas-, .reveal .base-space {
+	margin-top: $heading4Size;
+}
+
+.reveal del {
+	opacity: .3;
+}
+
+.business-time {
+	ul li {
+		font-size: $mainFontSize;
+	}
 }
 
 @keyframes blinker {

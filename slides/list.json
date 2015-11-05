@@ -15,9 +15,8 @@
         }
     },
     {
-        "filename": "toronto.html",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background-image": "resources/toronto.jpg"
         }
     },
     "antes-de-comecar.md",
@@ -52,13 +51,23 @@
     {
         "filename": "o-que-estranhei.html",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background-image": "resources/snow.jpg"
         }
     },
+    "almoco.md",
+    "jornada.html",
+    {
+        "attr": {
+            "data-background-image": "resources/eating-computer.jpg"
+        }
+    },
+    "vr.html",
+    "s-almoco.html",
+    "dizer-quando-nao.html",
     {
         "filename": "o-que-tenho-curtido.html",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background-image": "resources/poutine.jpg"
         }
     },
     {

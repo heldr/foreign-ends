@@ -300,7 +300,7 @@ body {
 
 *.reveal section[data-background-video] *,
 *.reveal section[data-background-image] * {
-  text-shadow: 2px 2px 4px #bebebe; }
+  text-shadow: 2px 2px 4px #000; }
 
 .blink_me {
   animation: blinker .5s linear infinite; }
@@ -322,8 +322,14 @@ body {
   background: none;
   border: 0; }
 
-#perguntas- {
+#perguntas-, .reveal .base-space {
   margin-top: 1em; }
+
+.reveal del {
+  opacity: .3; }
+
+.business-time ul li {
+  font-size: 38px; }
 
 @keyframes blinker {
   50% {
