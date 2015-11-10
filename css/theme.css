@@ -292,7 +292,7 @@ body {
 .reveal .argentine {
   color: #fff; }
 
-.highlight {
+.high, .highlight {
   color: yellow; }
 
 .reveal .brazil {
@@ -320,7 +320,8 @@ body {
 
 .reveal img.no-bd-bg {
   background: none;
-  border: 0; }
+  border: 0;
+  box-shadow: 0 0; }
 
 #perguntas-, .reveal .base-space {
   margin-top: 1em; }

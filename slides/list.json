@@ -11,7 +11,8 @@
     {
         "filename": "cheff-s-plate.html",
         "attr": {
-            "data-background": "#fff"
+            "data-background": "#fff",
+            "data-transition": "zoom"
         }
     },
     {
@@ -70,10 +71,34 @@
             "data-background-image": "resources/poutine.jpg"
         }
     },
+    "maior-exposicao-de-ideias.html",
+    "lunch-learn.html",
+    {
+        "attr": {
+            "data-background-image": "resources/tech.jpg"
+        }
+    },
+    "a-estupida-educacao.html",
+    "canadian-vandalism.html",
+    "work-life-balance.html",
+    {
+        "attr": {
+            "data-background-image": "resources/work-life.jpeg"
+        }
+    },
     {
         "filename": "o-mercado-de-trabalho.html",
         "attr": {
-            "data-background": "#ff0000"
+            "data-background-image": "resources/financial-district.jpg"
+        }
+    },
+    "subway-ad.html",
+    "o-que-acontece-quando-voce-vai-para-um-pais-que-tem-o-ingles-como-primeira-ou-segunda-lingua.html",
+    "global-var.html",
+    {
+        "filename": "recrutadores.html",
+        "attr": {
+            "data-background-image": "resources/recrutadores.jpg"
         }
     },
     {
