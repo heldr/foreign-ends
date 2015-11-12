@@ -33,7 +33,6 @@
             "data-background-video": "resources/to.mp4"
         }
     },
-    "nao-e-facil.md",
     {
         "filename": "porrrrque-voce-saiu-do-brasil.md",
         "attr": {
@@ -124,9 +123,29 @@
     },
     "eduardo.html",
     "falar-em-oceania-e-nao-perguntar-sobre-distancia-e-bem-dificil-na-sua-opiniao-quais-sao-os-pontos-altos-e-baixos-disso.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/01-short.mov"
+        }
+    },
     "como-e-o-mercado-de-ti-na-capital-da-nova-zelandia-front-ends-sao-bem-valorizados-profissionalmente.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/02-short.mov"
+        }
+    },
     "existe-muita-migracao-de-profissionais-para-auckland-e-para-australia.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/03-short.mov"
+        }
+    },
     "o-que-voce-tem-mais-estudado-eduardo.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/04-short.mov"
+        }
+    },
     {
         "attr": {
             "data-background-video": "resources/trips/we_to_co.mp4"
