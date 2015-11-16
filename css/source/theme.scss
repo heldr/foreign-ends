@@ -53,14 +53,8 @@ section.has-light-background {
 @import "../../node_modules/reveal.js/css/theme/template/theme";
 // ---------------------------------------------
 
-.reveal .argentine {
-	color: $mainColor;
-}
 .high, .highlight {
 	color: $highlightColor;
-}
-.reveal .brazil {
-	color: green;
 }
 
 *.reveal section[data-background-video] *,
@@ -71,38 +65,46 @@ section.has-light-background {
 .blink_me {
   animation: blinker .5s linear infinite;
 }
+.reveal {
+	.vcard {
+		h2 {
+			padding-bottom: $heading4Size;
+		}
 
-.vcard {
-	h2 {
-		padding-bottom: $heading4Size;
-	}
+		&-details {
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+		}
+		&-detail--small {
+			font-size: .9em;
+		}
+		& ul {
+			list-style: none;
 
-	&-details {
-		display: flex;
-		justify-content: space-around;
-		align-items: center;
-	}
-	& ul {
-		list-style: none;
-
-		span {
-			opacity: .5;
+			span {
+				opacity: .5;
+			}
 		}
 	}
-}
-
-.reveal img.no-bd-bg {
-	background: none;
-	border: 0;
-	box-shadow: 0 0;
+	img.no-bd-bg {
+		background: none;
+		border: 0;
+		box-shadow: 0 0;
+	}
+	del {
+		opacity: .3;
+	}
+	.brazil {
+		color: green;
+	}
+	.argentine {
+		color: $mainColor;
+	}
 }
 
 #perguntas-, .reveal .base-space {
 	margin-top: $heading4Size;
-}
-
-.reveal del {
-	opacity: .3;
 }
 
 .business-time {

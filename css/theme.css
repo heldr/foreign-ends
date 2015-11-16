@@ -289,14 +289,8 @@ body {
 .reveal .slide-number {
   color: #42affa; }
 
-.reveal .argentine {
-  color: #fff; }
-
 .high, .highlight {
   color: yellow; }
-
-.reveal .brazil {
-  color: green; }
 
 *.reveal section[data-background-video] *,
 *.reveal section[data-background-image] * {
@@ -305,17 +299,20 @@ body {
 .blink_me {
   animation: blinker .5s linear infinite; }
 
-.vcard h2 {
+.reveal .vcard h2 {
   padding-bottom: 1em; }
 
-.vcard-details {
+.reveal .vcard-details {
   display: flex;
   justify-content: space-around;
   align-items: center; }
 
-.vcard ul {
+.reveal .vcard-detail--small {
+  font-size: .9em; }
+
+.reveal .vcard ul {
   list-style: none; }
-  .vcard ul span {
+  .reveal .vcard ul span {
     opacity: .5; }
 
 .reveal img.no-bd-bg {
@@ -323,11 +320,17 @@ body {
   border: 0;
   box-shadow: 0 0; }
 
-#perguntas-, .reveal .base-space {
-  margin-top: 1em; }
-
 .reveal del {
   opacity: .3; }
+
+.reveal .brazil {
+  color: green; }
+
+.reveal .argentine {
+  color: #fff; }
+
+#perguntas-, .reveal .base-space {
+  margin-top: 1em; }
 
 .business-time ul li {
   font-size: 38px; }
