@@ -113,9 +113,29 @@
     },
     "zeno.html",
     "como-eh-trabalhar-na-mesma-empresa-estando-fora-do-brasil.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/1.mov"
+        }
+    },
     "american-dream.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/2.mov"
+        }
+    },
     "como-comunidade-brasileira.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/3.mov"
+        }
+    },
     "o-que-tem-estudado-zeno.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/4.mov"
+        }
+    },
     {
         "attr": {
             "data-background-video": "resources/trips/la_to_we.mp4"
