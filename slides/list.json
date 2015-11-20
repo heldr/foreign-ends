@@ -94,6 +94,10 @@
     "subway-ad.html",
     "o-que-acontece-quando-voce-vai-para-um-pais-que-tem-o-ingles-como-primeira-ou-segunda-lingua.html",
     "global-var.html",
+    "falta-gente.html",
+    "jobbank.html",
+    "um-bom-historico-e-necessario-esteja-sempre-de-bem-com-sua-empresa.html",
+    "sua-vaga-nem-sempre-esta-anunciada.html",
     {
         "filename": "recrutadores.html",
         "attr": {
@@ -108,67 +112,67 @@
     },
     {
         "attr": {
-            "data-background-video": "resources/trips/to_to_la.mp4"
+            "data-background-video": "resources/trips/to_to_la.webm"
         }
     },
     "zeno.html",
     "como-eh-trabalhar-na-mesma-empresa-estando-fora-do-brasil.md",
     {
         "attr": {
-            "data-background-video": "resources/zeno/1.mov"
+            "data-background-video": "resources/zeno/01.webmsd.webm"
         }
     },
     "american-dream.md",
     {
         "attr": {
-            "data-background-video": "resources/zeno/2.mov"
+            "data-background-video": "resources/zeno/02.webmsd.webm"
         }
     },
     "como-comunidade-brasileira.md",
     {
         "attr": {
-            "data-background-video": "resources/zeno/3.mov"
+            "data-background-video": "resources/zeno/03.webmsd.webm"
         }
     },
     "o-que-tem-estudado-zeno.md",
     {
         "attr": {
-            "data-background-video": "resources/zeno/4.mov"
+            "data-background-video": "resources/zeno/04.webmsd.webm"
         }
     },
     {
         "attr": {
-            "data-background-video": "resources/trips/la_to_we.mp4"
+            "data-background-video": "resources/trips/la_to_we.webm"
         }
     },
     "eduardo.html",
     "falar-em-oceania-e-nao-perguntar-sobre-distancia-e-bem-dificil-na-sua-opiniao-quais-sao-os-pontos-altos-e-baixos-disso.md",
     {
         "attr": {
-            "data-background-video": "resources/eduardo/01-short.mov"
+            "data-background-video": "resources/eduardo/01.webmsd.webm"
         }
     },
     "como-e-o-mercado-de-ti-na-capital-da-nova-zelandia-front-ends-sao-bem-valorizados-profissionalmente.md",
     {
         "attr": {
-            "data-background-video": "resources/eduardo/02-short.mov"
+            "data-background-video": "resources/eduardo/02.webmsd.webm"
         }
     },
     "existe-muita-migracao-de-profissionais-para-auckland-e-para-australia.md",
     {
         "attr": {
-            "data-background-video": "resources/eduardo/03-short.mov"
+            "data-background-video": "resources/eduardo/03.webmsd.webm"
         }
     },
     "o-que-voce-tem-mais-estudado-eduardo.md",
     {
         "attr": {
-            "data-background-video": "resources/eduardo/04-short.mov"
+            "data-background-video": "resources/eduardo/04.webmsd.webm"
         }
     },
     {
         "attr": {
-            "data-background-video": "resources/trips/we_to_co.mp4"
+            "data-background-video": "resources/trips/we_to_co.webm"
         }
     },
     "ju.html",
@@ -178,14 +182,34 @@
     "o-que-voce-tem-mais-estudado-ju.md",
     {
         "attr": {
-            "data-background-video": "resources/trips/co_to_am.mp4"
+            "data-background-video": "resources/trips/co_to_am.webm"
         }
     },
     "caio.html",
     "como-foi-poder-levar-um-evento.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/1.webm"
+        }
+    },
     "o-que-morar-fora-mais-te-ensinou.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/2.webm"
+        }
+    },
     "o-que-amsterda-se-difere-e-o-que-se-assemelha-com-o-restante-da-europa.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/3.webm"
+        }
+    },
     "o-que-voce-tem-mais-estudado-caio.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/4.webm"
+        }
+    },
     "mais-depoimentos.md",
     "zofe.html",
     "dne.html",
@@ -222,7 +246,7 @@
     {
         "filename": "perguntas.md",
         "attr": {
-            "data-background-video": "resources/trips/am_to_sp.mp4"
+            "data-background-video": "resources/trips/am_to_sp.webm"
         }
     }
 ]

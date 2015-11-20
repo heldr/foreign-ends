@@ -1,1 +1,1 @@
-##  Como você tem acompanhado a comunidade brasileira?
+##  Você tem acompanhado a comunidade brasileira?
