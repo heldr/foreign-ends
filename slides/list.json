@@ -33,6 +33,7 @@
             "data-background-video": "resources/to.mp4"
         }
     },
+    "nenhum-lugar-perfeito.html",
     {
         "filename": "porrrrque-voce-saiu-do-brasil.md",
         "attr": {
@@ -54,8 +55,8 @@
             "data-background-image": "resources/snow.jpg"
         }
     },
+    "european-canada-vs-american-canada.html",
     "dizer-quando-nao.html",
-    "almoco.md",
     "jornada.html",
     {
         "attr": {
@@ -63,7 +64,6 @@
         }
     },
     "vr.html",
-    "s-almoco.html",
     {
         "filename": "o-que-tenho-curtido.html",
         "attr": {
