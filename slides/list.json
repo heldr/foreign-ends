@@ -177,9 +177,29 @@
     },
     "ju.html",
     "como-foi-sua-primeira-semana-de-trabalho-por-ai-qual-foi-seu-maior-impacto-cultural-ate-entao.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju1.webmsd.webm"
+        }
+    },
     "como-e-o-work-life-balance-por-ai.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju2.webmsd.webm"
+        }
+    },
     "como-tem-sido-a-recepcao-de-uma-imigrante-na-dinamarca-seu-time-e-composto-apenas-por-danishes.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju3.webmsd.webm"
+        }
+    },
     "o-que-voce-tem-mais-estudado-ju.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju4.webmsd.webm"
+        }
+    },
     {
         "attr": {
             "data-background-video": "resources/trips/co_to_am.webm"
