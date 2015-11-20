@@ -54,6 +54,7 @@
             "data-background-image": "resources/snow.jpg"
         }
     },
+    "dizer-quando-nao.html",
     "almoco.md",
     "jornada.html",
     {
@@ -63,7 +64,6 @@
     },
     "vr.html",
     "s-almoco.html",
-    "dizer-quando-nao.html",
     {
         "filename": "o-que-tenho-curtido.html",
         "attr": {
