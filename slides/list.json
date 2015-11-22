@@ -1,0 +1,272 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "#000",
+            "data-background-video": "resources/earth.mp4",
+            "data-background-video-loop": true
+        }
+    },
+    "helder-santana.html",
+    {
+        "filename": "cheff-s-plate.html",
+        "attr": {
+            "data-background": "#fff",
+            "data-transition": "zoom"
+        }
+    },
+    {
+        "attr": {
+            "data-background-image": "resources/toronto.jpg"
+        }
+    },
+    "antes-de-comecar.md",
+    {
+        "filename": "sorry-argentinian-friends.html",
+        "attr": {
+            "data-background": "rgb(92, 166, 197)"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "#000",
+            "data-background-video": "resources/to.mp4"
+        }
+    },
+    "nao-e-facil.html",
+    {
+        "filename": "porrrrque-voce-saiu-do-brasil.md",
+        "attr": {
+            "data-background-image": "resources/marilia-gabriela.jpg"
+        }
+    },
+    "como-eu-estava-em-2012-2013.html",
+    {
+        "filename": "comfort-zone.html",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    "intercambio.html",
+    "51-immigrants.html",
+    {
+        "filename": "o-que-estranhei.html",
+        "attr": {
+            "data-background-image": "resources/snow.jpg"
+        }
+    },
+    "european-canada-vs-american-canada.html",
+    "dizer-quando-nao.html",
+    "jornada.html",
+    {
+        "attr": {
+            "data-background-image": "resources/eating-computer.jpg"
+        }
+    },
+    "vr.html",
+    {
+        "filename": "o-que-tenho-curtido.html",
+        "attr": {
+            "data-background-image": "resources/poutine.jpg"
+        }
+    },
+    "maior-exposicao-de-ideias.html",
+    "lunch-learn.html",
+    {
+        "attr": {
+            "data-background-image": "resources/tech.jpg"
+        }
+    },
+    "a-estupida-educacao.html",
+    "canadian-vandalism.html",
+    "work-life-balance.html",
+    {
+        "attr": {
+            "data-background-image": "resources/work-life.jpeg"
+        }
+    },
+    {
+        "filename": "o-mercado-de-trabalho.html",
+        "attr": {
+            "data-background-image": "resources/financial-district.jpg"
+        }
+    },
+    "subway-ad.html",
+    "o-que-acontece-quando-voce-vai-para-um-pais-que-tem-o-ingles-como-primeira-ou-segunda-lingua.html",
+    "global-var.html",
+    "falta-gente.html",
+    "jobbank.html",
+    "um-bom-historico-e-necessario-esteja-sempre-de-bem-com-sua-empresa.html",
+    "sua-vaga-nem-sempre-esta-anunciada.html",
+    {
+        "filename": "recrutadores.html",
+        "attr": {
+            "data-background-image": "resources/recrutadores.jpg"
+        }
+    },
+    {
+        "filename": "depoimentos.md",
+        "attr": {
+            "data-background-image": "resources/sergio-chapellin.jpg"
+        }
+    },
+    {
+        "attr": {
+            "data-background-video": "resources/trips/to_to_la.webm"
+        }
+    },
+    "zeno.html",
+    "como-eh-trabalhar-na-mesma-empresa-estando-fora-do-brasil.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/01.webmsd.webm"
+        }
+    },
+    "american-dream.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/02.webmsd.webm"
+        }
+    },
+    "como-comunidade-brasileira.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/03.webmsd.webm"
+        }
+    },
+    "o-que-tem-estudado-zeno.md",
+    {
+        "attr": {
+            "data-background-video": "resources/zeno/04.webmsd.webm"
+        }
+    },
+    {
+        "attr": {
+            "data-background-video": "resources/trips/la_to_we.webm"
+        }
+    },
+    "eduardo.html",
+    "falar-em-oceania-e-nao-perguntar-sobre-distancia-e-bem-dificil-na-sua-opiniao-quais-sao-os-pontos-altos-e-baixos-disso.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/01.webmsd.webm"
+        }
+    },
+    "como-e-o-mercado-de-ti-na-capital-da-nova-zelandia-front-ends-sao-bem-valorizados-profissionalmente.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/02.webmsd.webm"
+        }
+    },
+    "existe-muita-migracao-de-profissionais-para-auckland-e-para-australia.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/03.webmsd.webm"
+        }
+    },
+    "o-que-voce-tem-mais-estudado-eduardo.md",
+    {
+        "attr": {
+            "data-background-video": "resources/eduardo/04.webmsd.webm"
+        }
+    },
+    {
+        "attr": {
+            "data-background-video": "resources/trips/we_to_co.webm"
+        }
+    },
+    "ju.html",
+    "como-foi-sua-primeira-semana-de-trabalho-por-ai-qual-foi-seu-maior-impacto-cultural-ate-entao.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju1.webmsd.webm"
+        }
+    },
+    "como-e-o-work-life-balance-por-ai.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju2.webmsd.webm"
+        }
+    },
+    "como-tem-sido-a-recepcao-de-uma-imigrante-na-dinamarca-seu-time-e-composto-apenas-por-danishes.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju3.webmsd.webm"
+        }
+    },
+    "o-que-voce-tem-mais-estudado-ju.md",
+    {
+        "attr": {
+            "data-background-video": "resources/ju/ju4.webmsd.webm"
+        }
+    },
+    {
+        "attr": {
+            "data-background-video": "resources/trips/co_to_am.webm"
+        }
+    },
+    "caio.html",
+    "como-foi-poder-levar-um-evento.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/1.webm"
+        }
+    },
+    "o-que-morar-fora-mais-te-ensinou.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/2.webm"
+        }
+    },
+    "o-que-amsterda-se-difere-e-o-que-se-assemelha-com-o-restante-da-europa.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/3.webm"
+        }
+    },
+    "o-que-voce-tem-mais-estudado-caio.md",
+    {
+        "attr": {
+            "data-background-video": "resources/caio/4.webm"
+        }
+    },
+    "mais-depoimentos.md",
+    "zofe.html",
+    "dne.html",
+    "sorte.html",
+    "post-leo-balter.html",
+    "sorte-frase.html",
+    {
+        "attr": {
+            "data-background-image": "resources/zero-to-one.jpg",
+            "data-background-repeat": "no,"
+        }
+    },
+    "todos-nesse-front-ends.html",
+    "presencial-ou-remoto.html",
+    "e-temos-eventos-que-te-guiam-para-isso.html",
+    "braziljs.html",
+    "front-in.html",
+    "tao-bons-que-exportamos.html",
+    "front-in-am.html",
+    "sem-o-nome-rio.html",
+    "pebble-to.html",
+    "o-que-prova-que.html",
+    "tentamos-nos-adaptar-em-uma-nova-cultura.html",
+    "aprendemos-1-quando-nao-2-idiomas.html",
+    "mas-nao-perdemos-nosso-poder-em-criar-comunidades.html",
+    "pois-afinal.md",
+    {
+        "filename": "voce-sai-do-brasil-mas-o-brasil-nao-sai-de-voce.html",
+        "attr": {
+            "data-background": "yellow"
+        }
+    },
+    "obrigado.html",
+    {
+        "filename": "perguntas.md",
+        "attr": {
+            "data-background-video": "resources/trips/am_to_sp.webm"
+        }
+    }
+]
