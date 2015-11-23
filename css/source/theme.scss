@@ -61,6 +61,15 @@ section.has-light-background {
 *.reveal section[data-background-image] * {
     text-shadow: 2px 2px 4px #000;
 }
+*.reveal section[data-youtube] * {
+	.videoframe {
+		display:block;
+		margin:0 auto !important;
+		width:640px;
+		height:480px;
+	}
+}
+
 
 .blink_me {
   animation: blinker .5s linear infinite;

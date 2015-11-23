@@ -55,6 +55,7 @@
 
         </div>
 
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="node_modules/reveal.js/lib/js/head.min.js"></script>
         <script src="node_modules/reveal.js/js/reveal.js"></script>
         <script>
@@ -81,7 +82,18 @@
             ]
           });
 
-        </script>
+        Reveal.addEventListener('slidechanged', function(event) {
+            var $slide = $(event.currentSlide);
+            var ytid = $slide.attr('data-youtube');
+            var $frame = $slide.find('.videoframe');
+            var uri    = 'http://www.youtube.com/embed/'+ytid+'?wmode=opaque&amp;rel=0&amp;vq=large';
+
+            if(ytid && $frame.length && $frame.attr('src') !== uri) {
+                $frame.attr('src', 'http://www.youtube.com/embed/'+ytid+'?wmode=opaque&amp;rel=0&amp;vq=large')
+            }
+        });
+
+</script>
     </body>
 
 </html>
