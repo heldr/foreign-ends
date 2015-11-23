@@ -90,7 +90,7 @@
                 
                     
                         
-    <section data-background="#000" data-background-video="resources/to.mp4" ></section>
+    <section data-youtube="TYnmUm4akKk" data-html="slides/youtube.html"></section>
 
 
                     
@@ -362,7 +362,7 @@
                 
                     
                         
-    <section data-background-video="resources/zeno/01.webmsd.webm" ></section>
+    <section data-youtube="_I-J8TtzlsY" data-html="slides/youtube.html"></section>
 
 
                     
@@ -378,7 +378,7 @@
                 
                     
                         
-    <section data-background-video="resources/zeno/02.webmsd.webm" ></section>
+    <section data-youtube="DgwlPRIsCsg" data-html="slides/youtube.html"></section>
 
 
                     
@@ -394,7 +394,7 @@
                 
                     
                         
-    <section data-background-video="resources/zeno/03.webmsd.webm" ></section>
+    <section data-youtube="YrHI2urqRCg" data-html="slides/youtube.html"></section>
 
 
                     
@@ -410,7 +410,7 @@
                 
                     
                         
-    <section data-background-video="resources/zeno/04.webmsd.webm" ></section>
+    <section data-youtube="W7_GC8oOewE" data-html="slides/youtube.html"></section>
 
 
                     
@@ -442,7 +442,7 @@
                 
                     
                         
-    <section data-background-video="resources/eduardo/01.webmsd.webm" ></section>
+    <section data-youtube="RpEh1Pi-5JA" data-html="slides/youtube.html"></section>
 
 
                     
@@ -458,7 +458,7 @@
                 
                     
                         
-    <section data-background-video="resources/eduardo/02.webmsd.webm" ></section>
+    <section data-youtube="CmM4kHETDsM" data-html="slides/youtube.html"></section>
 
 
                     
@@ -474,7 +474,7 @@
                 
                     
                         
-    <section data-background-video="resources/eduardo/03.webmsd.webm" ></section>
+    <section data-youtube="zPMPjYUHifE" data-html="slides/youtube.html"></section>
 
 
                     
@@ -490,7 +490,7 @@
                 
                     
                         
-    <section data-background-video="resources/eduardo/04.webmsd.webm" ></section>
+    <section data-youtube="zO_X1rgaTng" data-html="slides/youtube.html"></section>
 
 
                     
@@ -522,7 +522,7 @@
                 
                     
                         
-    <section data-background-video="resources/ju/ju1.webmsd.webm" ></section>
+    <section data-youtube="zlHIE7n3-6M" data-html="slides/youtube.html"></section>
 
 
                     
@@ -538,7 +538,7 @@
                 
                     
                         
-    <section data-background-video="resources/ju/ju2.webmsd.webm" ></section>
+    <section data-youtube="f8MkyuEB6f4" data-html="slides/youtube.html"></section>
 
 
                     
@@ -554,7 +554,7 @@
                 
                     
                         
-    <section data-background-video="resources/ju/ju3.webmsd.webm" ></section>
+    <section data-youtube="FqOm8bmYl1M" data-html="slides/youtube.html"></section>
 
 
                     
@@ -570,7 +570,7 @@
                 
                     
                         
-    <section data-background-video="resources/ju/ju4.webmsd.webm" ></section>
+    <section data-youtube="BTxp0vtizms" data-html="slides/youtube.html"></section>
 
 
                     
@@ -602,7 +602,7 @@
                 
                     
                         
-    <section data-background-video="resources/caio/1.webm" ></section>
+    <section data-youtube="THTbHCINHTQ" data-html="slides/youtube.html"></section>
 
 
                     
@@ -618,7 +618,7 @@
                 
                     
                         
-    <section data-background-video="resources/caio/2.webm" ></section>
+    <section data-youtube="bMnXaC8nMo8" data-html="slides/youtube.html"></section>
 
 
                     
@@ -634,7 +634,7 @@
                 
                     
                         
-    <section data-background-video="resources/caio/3.webm" ></section>
+    <section data-youtube="PyHg_o7FsHU" data-html="slides/youtube.html"></section>
 
 
                     
@@ -650,7 +650,7 @@
                 
                     
                         
-    <section data-background-video="resources/caio/4.webm" ></section>
+    <section data-youtube="mFrKvdrCBLc" data-html="slides/youtube.html"></section>
 
 
                     
@@ -852,6 +852,7 @@
 
         </div>
 
+        <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
         <script src="node_modules/reveal.js/lib/js/head.min.js"></script>
         <script src="node_modules/reveal.js/js/reveal.js"></script>
         <script>
@@ -878,7 +879,18 @@
             ]
           });
 
-        </script>
+        Reveal.addEventListener('slidechanged', function(event) {
+            var $slide = $(event.currentSlide);
+            var ytid = $slide.attr('data-youtube');
+            var $frame = $slide.find('.videoframe');
+            var uri    = 'http://www.youtube.com/embed/'+ytid+'?wmode=opaque&amp;rel=0&amp;vq=large';
+
+            if(ytid && $frame.length && $frame.attr('src') !== uri) {
+                $frame.attr('src', 'http://www.youtube.com/embed/'+ytid+'?wmode=opaque&amp;rel=0&amp;vq=large')
+            }
+        });
+
+</script>
     </body>
 
 </html>

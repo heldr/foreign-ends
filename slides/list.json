@@ -28,9 +28,9 @@
         }
     },
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background": "#000",
-            "data-background-video": "resources/to.mp4"
+            "data-youtube": "TYnmUm4akKk"
         }
     },
     "nao-e-facil.html",
@@ -118,26 +118,30 @@
     "zeno.html",
     "como-eh-trabalhar-na-mesma-empresa-estando-fora-do-brasil.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/zeno/01.webmsd.webm"
+            "data-youtube": "_I-J8TtzlsY"
         }
     },
     "american-dream.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/zeno/02.webmsd.webm"
+            "data-youtube": "DgwlPRIsCsg"
         }
     },
     "como-comunidade-brasileira.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/zeno/03.webmsd.webm"
+            "data-youtube": "YrHI2urqRCg"
         }
     },
     "o-que-tem-estudado-zeno.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/zeno/04.webmsd.webm"
+            "data-youtube": "W7_GC8oOewE"
         }
     },
     {
@@ -148,26 +152,30 @@
     "eduardo.html",
     "falar-em-oceania-e-nao-perguntar-sobre-distancia-e-bem-dificil-na-sua-opiniao-quais-sao-os-pontos-altos-e-baixos-disso.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/eduardo/01.webmsd.webm"
+            "data-youtube": "RpEh1Pi-5JA"
         }
     },
     "como-e-o-mercado-de-ti-na-capital-da-nova-zelandia-front-ends-sao-bem-valorizados-profissionalmente.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/eduardo/02.webmsd.webm"
+            "data-youtube": "CmM4kHETDsM"
         }
     },
     "existe-muita-migracao-de-profissionais-para-auckland-e-para-australia.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/eduardo/03.webmsd.webm"
+            "data-youtube": "zPMPjYUHifE"
         }
     },
     "o-que-voce-tem-mais-estudado-eduardo.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/eduardo/04.webmsd.webm"
+            "data-youtube": "zO_X1rgaTng"
         }
     },
     {
@@ -178,26 +186,30 @@
     "ju.html",
     "como-foi-sua-primeira-semana-de-trabalho-por-ai-qual-foi-seu-maior-impacto-cultural-ate-entao.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/ju/ju1.webmsd.webm"
+            "data-youtube": "zlHIE7n3-6M"
         }
     },
     "como-e-o-work-life-balance-por-ai.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/ju/ju2.webmsd.webm"
+            "data-youtube": "f8MkyuEB6f4"
         }
     },
     "como-tem-sido-a-recepcao-de-uma-imigrante-na-dinamarca-seu-time-e-composto-apenas-por-danishes.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/ju/ju3.webmsd.webm"
+            "data-youtube": "FqOm8bmYl1M"
         }
     },
     "o-que-voce-tem-mais-estudado-ju.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/ju/ju4.webmsd.webm"
+            "data-youtube": "BTxp0vtizms"
         }
     },
     {
@@ -208,26 +220,30 @@
     "caio.html",
     "como-foi-poder-levar-um-evento.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/caio/1.webm"
+            "data-youtube": "THTbHCINHTQ"
         }
     },
     "o-que-morar-fora-mais-te-ensinou.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/caio/2.webm"
+            "data-youtube": "bMnXaC8nMo8"
         }
     },
     "o-que-amsterda-se-difere-e-o-que-se-assemelha-com-o-restante-da-europa.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/caio/3.webm"
+            "data-youtube": "PyHg_o7FsHU"
         }
     },
     "o-que-voce-tem-mais-estudado-caio.md",
     {
+        "filename": "youtube.html",
         "attr": {
-            "data-background-video": "resources/caio/4.webm"
+            "data-youtube": "mFrKvdrCBLc"
         }
     },
     "mais-depoimentos.md",
