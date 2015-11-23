@@ -1,9 +1,7 @@
 # Foreign-ends - Front in Sampa 2015
 
-> **Privacy alert:** Depois do talk, esse repositório vai continuar privado até que TODOS concordem do contrário. Os slides ficarão públicos em heldr.github.com...
-
 ## TLDR
-- ``npm i && grunt`` (alguns videos só rolam no chrome)
+- ``npm i && grunt`` (videos só rolam no chrome/firefox)
 - Slides foram gerados no [generator-reveal](https://github.com/slara/generator-reveal). Coffee e grunt estão presentes por isso :P
 - Slides presentes são apenas um rascunho, o slide verde e amarelo é a mensagem final...e sim...é clichê :P
 - seu video, foto da cidade e avatar ficarão em resources/seu_nome
@@ -34,9 +32,7 @@ Total: 45min
 
 5min ficam de "gordura" para Perguntas ou depoimentos.
 
-## Minha chamada antes de cada depoimento:
-
-Vou mostrar sua cidade no mapa, e uma foto de lá (pode commitar caso preferir)
+## Minha chamada antes de cada depoimento
 
 Tem alguns dados que penso em exibir antes de falar seu nome, fique a la vonte em não divulgar/passá-los.
 
